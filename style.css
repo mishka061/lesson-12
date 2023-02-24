@@ -1,0 +1,57 @@
+.container {
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+p{
+    color: #23026e;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 2rem;
+}
+.one,
+.two,
+.five,
+.six,
+.seven,
+.four{
+    border: 2px solid ;
+    border-radius: 10px;
+    text-align: center;
+}
+.one,
+.two {
+    width: 100px;
+    height: 100px;
+}
+.five{
+    width: 100px;
+    height: 50px;
+}
+.six,
+.seven {
+    margin: 5px;
+    width: 100px;
+    height: 30px;
+}
+.two{
+    text-align: center;
+}
+.three {
+    width: 600px;
+    height: 600px;
+    background-image: url(https://apero.ru/public/img/previews/20747-3e6f718125f0511d6b97c1018aa675aa06a2869c.png);
+}
+.ris{
+    background-image: url(https://kartinkof.club/uploads/posts/2022-03/1648691786_11-kartinkof-club-p-kartinki-smeshnie-programmist-12.jpg);
+}
+.lesson,
+.four{
+    width: 200px;
+    height: 200px;
+}
+.input-text,
+.in-text{
+    margin: 20px 0;
+}
